@@ -1,0 +1,4 @@
+*.txt
+*.bin
+__pycache__
+*.pickle
